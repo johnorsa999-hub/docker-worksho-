@@ -1,2 +1,2 @@
-# docker-worksho-
+# docker-workshop
 Workshop Codespaces
